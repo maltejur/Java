@@ -48,6 +48,7 @@
   * Graphs
     * [A Star](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/A_Star.java)
     * [BellmanFord](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/BellmanFord.java)
+    * [BipartiteGrapfDFS](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/BipartiteGrapfDFS.java)
     * [ConnectedComponent](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/ConnectedComponent.java)
     * [Cycles](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Cycles.java)
     * [DIJSKSTRAS ALGORITHM](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/DIJSKSTRAS_ALGORITHM.java)
@@ -93,6 +94,7 @@
     * [InfixToPostfix](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/InfixToPostfix.java)
     * [MaximumMinimumWindow](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/MaximumMinimumWindow.java)
     * [NodeStack](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/NodeStack.java)
+    * [ReverseStack](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/ReverseStack.java)
     * [StackArray](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/StackArray.java)
     * [StackArrayList](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/StackArrayList.java)
     * [StackOfLinkedList](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Stacks/StackOfLinkedList.java)
@@ -178,6 +180,7 @@
   * [FactorialRecursion](https://github.com/TheAlgorithms/Java/blob/master/Maths/FactorialRecursion.java)
   * [FFT](https://github.com/TheAlgorithms/Java/blob/master/Maths/FFT.java)
   * [FFTBluestein](https://github.com/TheAlgorithms/Java/blob/master/Maths/FFTBluestein.java)
+  * [FibonacciJavaStreams](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciJavaStreams.java)
   * [FibonacciNumber](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciNumber.java)
   * [FindMax](https://github.com/TheAlgorithms/Java/blob/master/Maths/FindMax.java)
   * [FindMaxRecursion](https://github.com/TheAlgorithms/Java/blob/master/Maths/FindMaxRecursion.java)
@@ -215,6 +218,7 @@
   * [RomanNumeralUtil](https://github.com/TheAlgorithms/Java/blob/master/Maths/RomanNumeralUtil.java)
   * [SumOfArithmeticSeries](https://github.com/TheAlgorithms/Java/blob/master/Maths/SumOfArithmeticSeries.java)
   * [SumOfDigits](https://github.com/TheAlgorithms/Java/blob/master/Maths/SumOfDigits.java)
+  * [TrinomialTriangle](https://github.com/TheAlgorithms/Java/blob/master/Maths/TrinomialTriangle.java)
   * [VampireNumber](https://github.com/TheAlgorithms/Java/blob/master/Maths/VampireNumber.java)
   * [VectorCrossProduct](https://github.com/TheAlgorithms/Java/blob/master/Maths/VectorCrossProduct.java)
 
